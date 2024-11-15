@@ -1,6 +1,5 @@
-import "./App.css";
-
 import React, { useRef, useEffect, useState } from "react";
+import "./App.css";
 
 type Point = {
   x: number;
